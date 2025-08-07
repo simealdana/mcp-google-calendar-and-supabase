@@ -1,4 +1,4 @@
-# YouTube Test Calendar App
+# MCP Calendar with supabase
 
 A comprehensive calendar management system that integrates Google Calendar with Supabase database through n8n workflows, providing MCP (Model Context Protocol) tools for AI-powered calendar operations.
 
